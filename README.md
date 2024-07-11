@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 <h3 align="center">Share your Story Here</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg"/>
+<img alt="coding" width="100%" src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanrizqi&label=Profile%20views&color=0e75b6&style=flat" alt="farhanrizqi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanrizqi" alt="farhanrizqi" /></a> </p>
 
 - 🌱 I’m currently learning **NestJS, VueJS, Laravel**
 
